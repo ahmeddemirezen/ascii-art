@@ -12,7 +12,7 @@ import math
 
 l = 4
 h = 5
-t = input("Lutfen cikti alinacak string i giriniz:\n")
+t = input("Lutfen cikti alinacak metini giriniz:\n")
 l_ilk=l
 harf_list=[" #  ##   ## ##  ### ###  ## # # ###  ## # # #   # # ###  #  ##   #  ##   ## ### # # # # # # # # # # ### ###","# # # # #   # # #   #   #   # #  #    # # # #   ### # # # # # # # # # # #    #  # # # # # # # # # #   #   #","### ##  #   # # ##  ##  # # ###  #    # ##  #   ### # # # # ##  # # ##   #   #  # # # # ###  #   #   #   ##","# # # # #   # # #   #   # # # #  #  # # # # #   # # # # # # #    ## # #   #  #  # # # # ### # #  #  #      ","# # ##   ## ##  ### #    ## # # ###  #  # # ### # # # #  #  #     # # # ##   #  ###  #  # # # #  #  ###  # "]
 harfler="ABCDEFGHIJKLMNOPQRSTUVWXYZ?"
